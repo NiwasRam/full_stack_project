@@ -1,0 +1,77 @@
+<html>
+<head>
+<style>
+body
+	{
+	background-color:brown;
+	border:1;
+	form:center;
+	}
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 50px;
+    text-decoration: none;
+}
+""
+li a:hover {
+    background-color: pink;
+}
+</style>
+</head>
+<body>
+<table style="background-color:white;width:100%;height:20px; padding=5px;">
+<tr>
+<td style="text-align:left;"><img style="height:65px;width:50%;" src="D:\b.tach\Army\photo\download (5).jpg"></td>
+<td style="text-align:center;"><h1 style=" background-color:white;text-align:center; padding:10px;">WELCOME INDIAN ARMY </h1></td>
+<td style="text-align:right;"><img style="height:65px;width:50%;"src="D:\b.tach\Army\photo\images (3).jpg"></td>
+</tr>
+</table>
+
+<ul>
+
+
+  <li><a href="D:\b.tach\Army\frientpage\Frientpage.html">Home</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\News.html">News</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Rejection.html">Rejection</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Indain Nevy.html">Join Nevy</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Join Indian Army.html">Indian Army</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Login.html">Login Acount</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Profile.html">Profile</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\latest job.html">latese job</a></li>
+  <li><a href="#D:\b.tach\Army\frientpage\Form.html">Forme</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Result.html">reslt</a></li>
+</ul>
+	<table style="width:1565px; height:800px; background-color:gray; padding;35px ">
+	<tr style="padding=30px; width:1565px;text-align:center">
+	<td  background="D:\b.tach\Army\photo\download (1).jpg"style="background-position: center;background-repeat: no-repeat; height:30%;width:30%;background-size: cover; "><h1 style="text-align:center; color: ;">Traning Time</h1></td>>
+	
+	<td  background="D:\b.tach\Army\photo\download (4).jpg" style="background-position: center;background-repeat: no-repeat; height:30%;width:30%;background-size: cover; "><h1 style="text-align:center; color:white;">Traning Time</h1></td>>
+	
+	</tr>
+	<tr style="padding=30px;">
+	<td  background="D:\b.tach\Army\photo\download (3).jpg" style="background-position: center;background-repeat: no-repeat; height:30%;width:30%;background-size: cover; "><h1 style="text-align:center; color:white;">Traning Time</h1></td>>
+	<td  background="D:\b.tach\Army\photo\download.jpg" style="background-position: center;background-repeat: no-repeat; height:30%;width:30%;background-size: cover; "><h1 style="text-align:center; color:white;">Traning Time</h1></td>>
+	
+	</tr>
+	<tr style="padding=30px;">
+	<td  background="D:\b.tach\Army\photo\images (2).jpg" style="background-position: center;background-repeat: no-repeat; height:30%;width:30%;background-size: cover; "><h1 style="text-align:center; color:white;">Traning Time</h1></td>>
+	<td  background="D:\b.tach\Army\photo\images (1).jpg" ><h1 style="text-align:center; color:white;">Traning Time</h1></td>>
+	
+	</tr>
+	</table>
+</body>
+</head>
