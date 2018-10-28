@@ -1,0 +1,92 @@
+<html>
+<html>
+<head>
+<style>
+body
+	{
+	background-color:brown;
+	border:1;
+	form:center;
+	}
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 50px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: pink;
+}
+</style>
+</head>
+<body>
+<table style="background-color:white;width:100%;height:20px; padding=5px;">
+<tr>
+<td style="text-align:left;"><img style="height:65px;width:50%;" src="D:\b.tach\Army\photo\download (5).jpg"></td>
+<td style="text-align:center;"><h1 style=" background-color:white;text-align:center; padding:10px;">WELCOME INDIAN ARMY </h1></td>
+<td style="text-align:right;"><img style="height:65px;width:50%;"src="D:\b.tach\Army\photo\images (3).jpg"></td>
+</tr>
+</table>
+
+<ul>
+
+
+  <li><a href="D:\b.tach\Army\frientpage\Frientpage.html">Home</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\News.html">News</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Rejection.html">Rejection</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Indain Nevy.html">Join Nevy</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Join Indian Army.html">Indian Army</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Login.html">Login Acount</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Profile.html">Profile</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\latest job.html">latese job</a></li>
+  <li><a href="#D:\b.tach\Army\frientpage\Form.html">Forme</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Result.html">reslt</a></li>
+</ul>
+
+<form style="text-align:center; background-color:green; height:80%;width:100%; "action="/action_page.php">
+<fieldset>
+    <legend>Personal information:</legend>
+	<h2>Enter Student details</h2>
+     <strong>First name:</strong>
+    <input type="text" name="firstname" value="First name:"><br><br>
+     <strong>middle name:</strong>
+    <input type="text" name="middlename" value="middle name:"><br><br>
+	 <strong>last name:</strong>
+	<input type="text" name="lastname" value="last name:"><br><br>
+	 <strong>phone number: </strong>
+	<input type="number" name="quantity" min="1" max="5" value="phone number"><br><br>
+	<strong> E-mail:</strong>
+    <input type="email" name="email" value="Email"><br>
+	<strong> Password</strong>
+	<input type="password" name="password" value=""><br>
+	<strong> Conform Password </strong>
+	<input text="password" name="password" value=""><br>
+	<strong> Birthday:</strong>
+    <input type="date" name="bday">
+  
+	<h3> <strong>chose your jender </strong></h3>
+	<input type="radio" name="gender" value="male" checked><strong> Male </strong><br>
+    <input type="radio" name="gender" value="female"><strong> Female </strong><br>
+    <input type="radio" name="gender" value="other"> <strong> Other </strong><br><br>
+    <input type="submit" value="Submit">
+	<input type="reset">
+  </fieldset>
+  </form>
+
+
+</body>
+</html>
