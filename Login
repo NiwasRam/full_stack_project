@@ -1,0 +1,103 @@
+<html>
+<html>
+<head>
+<style>
+body
+	{
+	background-color:brown;
+	border:1;
+	form:center;
+	}
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 50px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: pink;
+}
+</style>
+</head>
+<body>
+<table style="background-color:white;width:100%;height:20px; padding=5px;">
+<tr>
+<td style="text-align:left;"><img style="height:65px;width:50%;" src="D:\b.tach\Army\photo\download (5).jpg"></td>
+<td style="text-align:center;"><h1 style=" background-color:white;text-align:center; padding:10px;">WELCOME INDIAN ARMY </h1></td>
+<td style="text-align:right;"><img style="height:65px;width:50%;"src="D:\b.tach\Army\photo\images (3).jpg"></td>
+</tr>
+</table>
+
+<ul>
+
+
+  <li><a href="D:\b.tach\Army\frientpage\Frientpage.html">Home</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\News.html">News</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Rejection.html">Rejection</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Indain Nevy.html">Join Nevy</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Join Indian Army.html">Indian Army</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Login.html">Login Acount</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Profile.html">Profile</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\latest job.html">latese job</a></li>
+  <li><a href="#D:\b.tach\Army\frientpage\Form.html">Forme</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Result.html">reslt</a></li>
+</ul>
+
+<h1 style="background-color:gray; padding:16px; text-align:center"> LOG IN</h1>
+	<table style="background-color:pink; height:600px;width:100%; padding:30px;" border="1">
+		<tr style="background-color:gray;">
+			<th border="1">
+			<h1 style="color:red; padding:10px; background-color:gray width:45%;">New Register(नया पंजीकरण)</h1>
+			<h3 style="color:red; text-align:left;">By setting up an account you can:</h3>
+			<P><li>Start your application to join the Army</li></p><br>
+			<P><li>Save any applications you have started, to come back to later</li></p><br>
+			<P><li>Get information on future events and activities</li></p><br>
+			<br>
+			<h3  style="color:red; text-align:left;">खाता खोलने के बाद आप निम्नऔ कार्य कर सकते हैं</h3>
+			<P><li>सेना में शामिल होने के लिए आवेदन आरंभ करना।</li></p><br>
+			<P><li>आपके द्वारा प्रारंभ किए गए आवेदन को सेव करके, बाद में पूर्ण कर लेना।</li></p><br>
+			<P><li>होने वाले कार्यक्रमों और गतिविधियों की जानकारी प्राप्त करना।</li></p><br>
+			<br>
+			<a href="D:\b.tach\Army\frientpage\Rejection.html"><h2 style="background-color:white; text-align:center;width:40%; padding=20px;">Rejection</h2></a>
+			</th>
+			<th> 
+			<h1 style="color:red; padding:10px; background-color:gray width:45%;"> Log in </h1>
+			<br>
+			<form style="text-align:center;  "action="/action_page.php">
+			Username: <input type="text" name="user" value=" "><br>
+            Password: <input type="password" name="password" value=" "><br>
+			<br>
+		   submit:
+		   <input type="submit" name="submit" value="submit">
+		   reset:
+		   <input type="reset">
+		   <br>
+		   <br>
+		   <br>
+		   <br>
+		   <p style="text-align:left">. If you don`t have Account on the Indian Army website.</p> 
+		   <p style="text-align:left">Then you should go to create a Acount on the this websiet. </p>
+		   <a href="D:\b.tach\Army\frientpage\Rejection.html"><h2 style="background-color:white; text-align:center;width:40%; padding=20px;">Rejection</h2></a>
+		   </form>
+		   </th>
+			
+			</tr>
+			
+		
+	</table>
+	
+</html>
