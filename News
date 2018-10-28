@@ -1,0 +1,74 @@
+<html>
+<html>
+<head>
+<style>
+body
+	{
+	background-color:brown;
+	border:1;
+	form:center;
+	}
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 50px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: pink;
+}
+</style>
+</head>
+<body>
+<table style="background-color:white;width:100%;height:20px; padding=5px;">
+<tr>
+<td style="text-align:left;"><img style="height:65px;width:50%;" src="D:\b.tach\Army\photo\download (5).jpg"></td>
+<td style="text-align:center;"><h1 style=" background-color:white;text-align:center; padding:10px;">WELCOME INDIAN ARMY </h1></td>
+<td style="text-align:right;"><img style="height:65px;width:50%;"src="D:\b.tach\Army\photo\images (3).jpg"></td>
+</tr>
+</table>
+
+<ul>
+
+
+  <li><a href="D:\b.tach\Army\frientpage\Frientpage.html">Home</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\News.html">News</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Rejection.html">Rejection</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Indain Nevy.html">Join Nevy</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Join Indian Army.html">Indian Army</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Login.html">Login Acount</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Profile.html">Profile</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\latest job.html">latese job</a></li>
+  <li><a href="#D:\b.tach\Army\frientpage\Form.html">Forme</a></li>
+  <li><a href="D:\b.tach\Army\frientpage\Result.html">reslt</a></li>
+</ul>
+<table style="margin-left:10ppx; width:100%; padding:10px; background-color:gray">
+<tr>
+<td style="width:300px"><img src="D:\b.tach\Army\photo\729425-encounter-kulgam-2.jpg" style="height:150px;width=200px"></td>
+<td style="width:1200px"><a href="D:\b.tach\Army\frientpage\news\Two terrorists.html"><h1>Two terrorists hiding in a house in J&K's Kulgam; encounter underway, jawan injured</h1></a></li></td>
+</tr> 
+<tr>
+<td style="width:300px"><img src="D:\b.tach\Army\photo\727892-army.jpg" style="height:150px;width=200px"></td>
+<td style="width:1200px"><a href="D:\b.tach\Army\frientpage\news\Army.html"><h1>Assam fake encounter case: Major General among 7 given life sentence by Indian Army court</h1></a></li></td>
+</tr> 
+<tr>
+<td style="width:300px"><img src="D:\b.tach\Army\photo\724898-t-14-armata-1.jpg" style="height:150px;width=200px"></td>
+<td style="width:1200px"><a href="D:\b.tach\Army\frientpage\news\T-14 Armata .html"><h1>India eyeing T-14 Armata as Army Chief Gen Bipin Rawat visits Russia</h1></a></li></td>
+</tr> 
+<td style="width:300px"><img src="D:\b.tach\Army\photo\724073-pm-1212.jpg" style="height:150px;width=200px"></td>
+<td style="width:1200px"><a href="D:\b.tach\Army\frientpage\news\new1 .html"><h1>India eyeing T-14 Armata as Army Chief Gen Bipin Rawat visits Russia</h1></a></li></td>
+</tr> 
